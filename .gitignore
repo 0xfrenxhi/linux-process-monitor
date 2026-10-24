@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime logs and local output
+process_monitor.log
+*.log
+
+# Local editor / OS files
+.vscode/
+.idea/
+.DS_Store
